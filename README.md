@@ -7,5 +7,7 @@ This is a Developer Portfolio and Blog for my Projects and general thoughts on t
   
 ### Github workflow.
 - after getting setup with a uploaded copy of you project, that can be updated and through contnius intergration (github).
-personal note, github fills me with rage...
+
 ![](https://github.com/peterktsitsi/Astro-Personal-Site/blob/main/marriage-story-adam-driver.gif)
+
+Personal note, github fills me with rage...
