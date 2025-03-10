@@ -11,3 +11,7 @@ This is a Developer Portfolio and Blog for my Projects and general thoughts on t
 ![](https://github.com/peterktsitsi/Astro-Personal-Site/blob/main/marriage-story-adam-driver.gif)
 
 Personal note, github fills me with rage...
+ --- 
+
+### Ok lets begin...
+- for 
